@@ -1,0 +1,40 @@
+
+.bg {
+    background-image: url("images//bg10.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.r3height {
+    height: fit-content;
+}
+
+.login-box {
+    background-color: rgba(169, 168, 168, 0.696);
+    height: fit-content;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    border-radius: 40px;
+    box-shadow: 0px 0px 10px 2px black;
+}
+
+.remeber {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lg-logo1 {
+    height: 140px;
+}
+
+.lg-font1 {
+    font-weight: 600;
+    font-family: "f1";
+    font-size: 24px;
+}
+
+@font-face {
+    font-family: "f1";
+    src: url("font/Candarab.ttf");
+}
